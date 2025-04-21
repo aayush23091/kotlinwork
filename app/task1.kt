@@ -21,7 +21,6 @@ fun main(args: Array<String>) {
     println (Name)
 }
 
-package com.example.firstapplication
 
 fun main(){
 // Immutable List
@@ -55,7 +54,7 @@ fun main(){
     }
 }
 
-package com.example.firstapplication
+
 
 fun main() {
     var num1: Double = 12.6
